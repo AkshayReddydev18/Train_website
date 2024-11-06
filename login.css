@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('./traintoy.jpg');
+    background-image: url(./train1.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
